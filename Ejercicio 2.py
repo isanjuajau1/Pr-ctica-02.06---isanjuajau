@@ -8,4 +8,6 @@ diccionario["Nombre"] = input("Dime tu nombre ")
 diccionario["edad"] = input("Dime tu edad ")
 diccionario["direccion"] = input("Dime tu direccion ")
 diccionario["telefono"] = input("Dime tu telefono ")
-print(diccionario['Nombre'], 'tiene', diccionario['edad'], 'años, vive en', diccionario['direccion'], 'y su teléfono es', diccionario['telefono'])
+print(diccionario['Nombre'], 'tiene', diccionario['edad'], 
+      'años, vive en', diccionario['direccion'], 'y su teléfono es', 
+      diccionario['telefono'])
